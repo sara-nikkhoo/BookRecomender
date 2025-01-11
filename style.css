@@ -1,0 +1,25 @@
+
+  .st-emotion-cache-1igbibe {
+    outline: 2px solid red;
+    border-radius: 2px
+
+  }
+img {
+  height: 250px;
+  object-fit: cover;
+  width: 180px;
+  margin-bottom: 10px;
+}
+
+.st-emotion-cache-phe2gf {
+  height: 75px; /* Reserve enough space for image and title */
+  overflow: hidden;
+}
+
+p {
+  font-size: 14px; /* Font size for title */
+  height: auto; /* Let the title expand as needed */
+  padding: 5px 0; /* Add padding for spacing */
+  
+  word-wrap: break-word; /* Wrap text properly */
+}
